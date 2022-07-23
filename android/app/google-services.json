@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "553572086575",
+    "project_id": "inteviewauthdemo",
+    "storage_bucket": "inteviewauthdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553572086575:android:504183b2e63837bd0ae7da",
+        "android_client_info": {
+          "package_name": "com.app.smamtddclean"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553572086575-l54qbm2j6ogpve0aalq96chst81defn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.smamtddclean",
+            "certificate_hash": "4552f051fc14aa79bcc65fb7b0a87df3ddd6bd14"
+          }
+        },
+        {
+          "client_id": "553572086575-pkfi3nvpmcjtqocvl3ea7sv7nkqf1bro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChu1IVoqH6TFOxVPDvp4qu5-wgZkdgDqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553572086575-pkfi3nvpmcjtqocvl3ea7sv7nkqf1bro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

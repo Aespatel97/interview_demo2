@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">smam_tddclean</string>
+ 
+    <string name="facebook_app_id">1196183177477600</string>
+ 
+    <string name="fb_login_protocol_scheme">cfe468e31e7d25f2219d7170a5905cff</string>
+</resources>
